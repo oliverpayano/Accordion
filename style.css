@@ -1,0 +1,28 @@
+.accordion-item {
+    width: 80%;
+    margin: auto;
+}
+
+.accordion {
+    width: 80%;
+    margin: 50px auto;
+
+}
+
+.accordion-item button {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.answer {
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 10px;
+    display: none;
+}
